@@ -1,1 +1,1 @@
-# RTA_KJ
+# Analiza danych w czasie rzeczywistym
